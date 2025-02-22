@@ -1,39 +1,14 @@
-# Tech Career Roadmaps Repository
+### Tech Career Roadmaps Repository
 
-Welcome to the **Tech Career Roadmaps Repository**! Whether you're a beginner dreaming of a tech career or a seasoned professional looking to pivot or advance, this repository is your ultimate guide. Created with love by [Eugene Mutembei](https://github.com/CodeWithEugene), this collection offers detailed, step-by-step roadmaps for 15 in-demand technology careers. Each roadmap is packed with skills, tools, educational paths, and actionable advice to help you excel in your chosen field.
+Welcome to the **Tech Career Roadmaps Repository**! Whether you're exploring a new career in technology, seeking to upskill, or pivoting to a different tech field, this public repository is your ultimate resource. Created with love by [Eugene Mutembei](https://github.com/CodeWithEugene), this collection offers detailed, step-by-step roadmaps for **65 in-demand tech careers**, each packed with skills, tools, educational paths, and actionable advice to help you excel in your chosen field.
 
----
-
-## About This Repository
-The tech industry is vast and ever-evolving, offering opportunities in coding, data, security, design, and more. This repository organizes 15 key tech careers into individual folders, each containing a comprehensive `README.md` file. These roadmaps are designed to:
-- Guide you from novice to expert with clear milestones.
-- Highlight essential skills, languages, and technologies.
-- Provide practical steps and tips for career growth.
-
-Built on February 22, 2025, this resource reflects the latest trends and demands in tech as of that date, ensuring relevance and accuracy.
-
----
-
-## Available Career Roadmaps
-Explore the following 15 tech careers, each housed in its own folder:
-
-| **Career**                  | **Folder**                  | **Description**                                           |
-|-----------------------------|-----------------------------|-----------------------------------------------------------|
-| **Software Developer**      | `/software-developer`       | Build software applications for diverse platforms.        |
-| **Data Scientist**          | `/data-scientist`           | Analyze data to uncover insights and drive decisions.     |
-| **Cybersecurity Engineer**  | `/cybersecurity-engineer`   | Protect systems from cyber threats with expertise.        |
-| **Network Engineer**        | `/network-engineer`         | Manage networks for seamless connectivity.                |
-| **IT Manager**              | `/it-manager`               | Oversee IT operations and align tech with business goals. |
-| **Web Developer**           | `/web-developer`            | Create and maintain engaging websites.                    |
-| **Database Administrator**  | `/database-administrator`   | Ensure data integrity and performance in databases.       |
-| **Technical Support Engineer** | `/technical-support-engineer` | Assist users with technical issues.                   |
-| **Product Manager**         | `/product-manager`          | Guide product development with a customer focus.          |
-| **UX Designer**             | `/ux-designer`              | Design user-friendly interfaces for better experiences.   |
-| **Digital Marketing Manager** | `/digital-marketing-manager` | Promote products through digital channels.              |
-| **Technical Writer**        | `/technical-writer`         | Document technical info for clarity and usability.        |
-| **Blockchain Developer**    | `/blockchain-developer`     | Build decentralized apps with blockchain tech.            |
-| **AI/ML Engineer**          | `/ai-ml-engineer`           | Develop intelligent systems with AI and ML.               |
-| **Cloud Engineer**          | `/cloud-engineer`           | Manage scalable cloud infrastructure.                     |
+These roadmaps are carefully drafted for the 65 tech career paths and include:
+- **Introduction**: An overview of the career.
+- **Key Skills**: Essential abilities to master.
+- **Educational Background**: Formal and alternative learning paths.
+- **Technologies & Tools**: A table of key tools and their purposes.
+- **Career Roadmap**: A 6-step timeline from novice to senior.
+- **Tips for Advancement**: Strategies to excel and grow.
 
 ---
 
@@ -50,7 +25,7 @@ Follow these simple steps to dive into the roadmap for your chosen career:
 
 3. **Open the README**:  
    - Inside each folder, find the `README.md` file (e.g., `software-developer/README.md`).  
-   - Click it to view the detailed roadmap directly on GitHub, or download it for offline use.
+   - Click it to view the detailed roadmap directly on GitHub.
 
 4. **Explore and Learn**:  
    - Each `README.md` includes sections on skills, tools, education, a career roadmap, and advancement tips.  
@@ -75,7 +50,7 @@ cat README.md
 ---
 
 ## Contributing
-We welcome contributions to enhance these roadmaps! If you have suggestions, improvements, or new roadmaps to add, please follow these steps:
+I welcome contributions to enhance these roadmaps! If you have suggestions, improvements, or new roadmaps to add, please follow these steps:
 
 1. **Fork the Repository**:  
     - Click the "Fork" button at the top right of this page.
@@ -112,9 +87,77 @@ We welcome contributions to enhance these roadmaps! If you have suggestions, imp
 7. **Create a Pull Request**:  
     - Open a pull request from your branch to the main repository.
 
-Thank you for contributing to the Tech Career Roadmaps Repository!
-
 ---
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+## Available Career Roadmaps
+Below is the full list of **65 tech careers**, each housed in its own folder:
+
+| **Career**                  | **Folder**                  | **Description**                                           |
+|-----------------------------|-----------------------------|-----------------------------------------------------------|
+| Software Developer          | `software-developer`        | Builds software applications for various platforms.       |
+| Data Scientist              | `data-scientist`            | Analyzes data for insights and decision-making.           |
+| Cybersecurity Engineer      | `cybersecurity-engineer`    | Protects systems from cyber threats.                      |
+| Network Engineer            | `network-engineer`          | Manages network infrastructure.                           |
+| IT Manager                  | `it-manager`                | Oversees IT operations and strategy.                      |
+| Web Developer               | `web-developer`             | Creates and maintains websites.                           |
+| Database Administrator      | `database-administrator`    | Manages database systems.                                 |
+| Technical Support Engineer  | `technical-support-engineer`| Assists users with technical issues.                      |
+| Product Manager             | `product-manager`           | Guides product development lifecycle.                     |
+| UX Designer                 | `ux-designer`               | Designs user-friendly interfaces.                         |
+| Digital Marketing Manager   | `digital-marketing-manager` | Promotes products via digital channels.                   |
+| Technical Writer            | `technical-writer`          | Documents technical information.                          |
+| Blockchain Developer        | `blockchain-developer`      | Builds decentralized applications.                        |
+| AI/ML Engineer              | `ai-ml-engineer`            | Develops artificial intelligence models.                  |
+| Cloud Engineer              | `cloud-engineer`            | Manages cloud infrastructure.                             |
+| DevOps Engineer             | `devops-engineer`           | Automates software delivery processes.                    |
+| Systems Administrator       | `systems-administrator`     | Maintains IT infrastructure.                              |
+| QA Engineer                 | `qa-engineer`               | Ensures software quality through testing.                 |
+| Mobile Developer            | `mobile-developer`          | Creates mobile applications.                              |
+| Game Developer              | `game-developer`            | Develops video games.                                     |
+| Embedded Systems Engineer   | `embedded-systems-engineer` | Codes for hardware devices.                               |
+| Frontend Developer          | `frontend-developer`        | Designs user interfaces for web apps.                     |
+| Backend Developer           | `backend-developer`         | Builds server-side logic for applications.                |
+| Full-Stack Developer        | `full-stack-developer`      | Handles both frontend and backend development.            |
+| Site Reliability Engineer   | `site-reliability-engineer` | Ensures system reliability and uptime.                    |
+| Data Engineer               | `data-engineer`             | Builds data pipelines for analytics.                      |
+| Business Intelligence Analyst | `business-intelligence-analyst` | Turns data into business insights.                    |
+| Machine Learning Researcher | `machine-learning-researcher` | Advances ML algorithms and research.                    |
+| Robotics Engineer           | `robotics-engineer`         | Designs robotic systems.                                  |
+| IoT Engineer                | `iot-engineer`              | Develops Internet of Things solutions.                    |
+| AR/VR Developer             | `ar-vr-developer`           | Creates augmented/virtual reality experiences.            |
+| Computer Vision Engineer    | `computer-vision-engineer`  | Builds systems for visual data processing.               |
+| NLP Engineer                | `nlp-engineer`              | Develops natural language processing systems.             |
+| Big Data Engineer           | `big-data-engineer`         | Manages large-scale data systems.                         |
+| Data Analyst                | `data-analyst`              | Interprets data for actionable insights.                  |
+| Information Security Analyst| `information-security-analyst` | Monitors and mitigates cyber threats.                  |
+| Penetration Tester          | `penetration-tester`        | Tests security through ethical hacking.                   |
+| Security Architect          | `security-architect`        | Designs secure IT systems.                                |
+| Cloud Architect             | `cloud-architect`           | Architects scalable cloud solutions.                      |
+| Solutions Architect         | `solutions-architect`       | Integrates tech solutions for business needs.             |
+| Network Architect           | `network-architect`         | Designs network infrastructures.                          |
+| Systems Analyst             | `systems-analyst`           | Analyzes and improves IT systems.                         |
+| IT Project Manager          | `it-project-manager`        | Leads IT project execution.                               |
+| Scrum Master                | `scrum-master`              | Facilitates Agile Scrum processes.                        |
+| Agile Coach                 | `agile-coach`               | Trains teams in Agile methodologies.                      |
+| UI Designer                 | `ui-designer`               | Crafts visual interfaces.                                 |
+| Graphic Designer            | `graphic-designer`          | Creates visual content for media.                         |
+| Motion Designer             | `motion-designer`           | Animates graphics for dynamic content.                    |
+| Interaction Designer        | `interaction-designer`      | Designs intuitive digital interactions.                   |
+| SEO Specialist              | `seo-specialist`            | Optimizes web visibility.                                 |
+| Content Strategist          | `content-strategist`        | Plans digital content strategies.                         |
+| API Developer               | `api-developer`             | Builds application programming interfaces.                |
+| Systems Engineer            | `systems-engineer`          | Integrates IT systems.                                    |
+| Hardware Engineer           | `hardware-engineer`         | Designs hardware components.                              |
+| Firmware Engineer           | `firmware-engineer`         | Codes for hardware devices.                               |
+| Quantum Computing Researcher| `quantum-computing-researcher` | Explores quantum computing tech.                       |
+| Bioinformatics Specialist   | `bioinformatics-specialist` | Analyzes biological data.                                 |
+| GIS Specialist              | `gis-specialist`            | Manages geospatial data.                                  |
+| DevSecOps Engineer          | `devsecops-engineer`        | Secures DevOps workflows.                                 |
+| Automation Engineer         | `automation-engineer`       | Automates processes.                                      |
+| Performance Engineer        | `performance-engineer`      | Optimizes system performance.                             |
+| Technical Trainer           | `technical-trainer`         | Teaches technical skills.                                 |
+| ERP Consultant              | `erp-consultant`            | Implements ERP systems.                                   |
+| CRM Developer               | `crm-developer`             | Customizes CRM platforms.                                 |
+| Ethical Hacker              | `ethical-hacker`            | Secures systems via ethical hacking.                      |
+
+---
