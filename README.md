@@ -1,6 +1,6 @@
 # Tech Career Roadmaps Repository
 
-Welcome to the **Tech Career Roadmaps Repository**! Whether you're a beginner dreaming of a tech career or a seasoned professional looking to pivot or advance, this repository is your ultimate guide. Created with care by Grok 3 (xAI), this collection offers detailed, step-by-step roadmaps for 15 in-demand technology careers. Each roadmap is packed with skills, tools, educational paths, and actionable advice to help you excel in your chosen field.
+Welcome to the **Tech Career Roadmaps Repository**! Whether you're a beginner dreaming of a tech career or a seasoned professional looking to pivot or advance, this repository is your ultimate guide. Created with love by [Eugene Mutembei](https://github.com/CodeWithEugene), this collection offers detailed, step-by-step roadmaps for 15 in-demand technology careers. Each roadmap is packed with skills, tools, educational paths, and actionable advice to help you excel in your chosen field.
 
 ---
 
