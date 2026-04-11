@@ -10,6 +10,11 @@ These roadmaps are carefully drafted for the 65 tech career paths and include:
 - **Career Roadmap**: A 6-step timeline from novice to senior.
 - **Tips for Advancement**: Strategies to excel and grow.
 
+## Table of Contents
+- [How to Access Each Roadmap](#how-to-access-each-roadmap)
+- [Contributing](#contributing)
+- [Available Career Roadmaps](#available-career-roadmaps)
+
 ---
 
 ## How to Access Each Roadmap
@@ -92,72 +97,77 @@ I welcome contributions to enhance these roadmaps! If you have suggestions, impr
 ## Available Career Roadmaps
 Below is the full list of **65 tech careers**, each housed in its own folder:
 
+<details>
+<summary>View all 65 Tech Career Roadmaps</summary>
+
 | **Career**                  | **Folder**                  | **Description**                                           |
 |-----------------------------|-----------------------------|-----------------------------------------------------------|
-| Software Developer          | `software-developer`        | Builds software applications for various platforms.       |
-| Data Scientist              | `data-scientist`            | Analyzes data for insights and decision-making.           |
-| Cybersecurity Engineer      | `cybersecurity-engineer`    | Protects systems from cyber threats.                      |
-| Network Engineer            | `network-engineer`          | Manages network infrastructure.                           |
-| IT Manager                  | `it-manager`                | Oversees IT operations and strategy.                      |
-| Web Developer               | `web-developer`             | Creates and maintains websites.                           |
-| Database Administrator      | `database-administrator`    | Manages database systems.                                 |
-| Technical Support Engineer  | `technical-support-engineer`| Assists users with technical issues.                      |
-| Product Manager             | `product-manager`           | Guides product development lifecycle.                     |
-| UX Designer                 | `ux-designer`               | Designs user-friendly interfaces.                         |
-| Digital Marketing Manager   | `digital-marketing-manager` | Promotes products via digital channels.                   |
-| Technical Writer            | `technical-writer`          | Documents technical information.                          |
-| Blockchain Developer        | `blockchain-developer`      | Builds decentralized applications.                        |
-| AI/ML Engineer              | `ai-ml-engineer`            | Develops artificial intelligence models.                  |
-| Cloud Engineer              | `cloud-engineer`            | Manages cloud infrastructure.                             |
-| DevOps Engineer             | `devops-engineer`           | Automates software delivery processes.                    |
-| Systems Administrator       | `systems-administrator`     | Maintains IT infrastructure.                              |
-| QA Engineer                 | `qa-engineer`               | Ensures software quality through testing.                 |
-| Mobile Developer            | `mobile-developer`          | Creates mobile applications.                              |
-| Game Developer              | `game-developer`            | Develops video games.                                     |
-| Embedded Systems Engineer   | `embedded-systems-engineer` | Codes for hardware devices.                               |
-| Frontend Developer          | `frontend-developer`        | Designs user interfaces for web apps.                     |
-| Backend Developer           | `backend-developer`         | Builds server-side logic for applications.                |
-| Full-Stack Developer        | `full-stack-developer`      | Handles both frontend and backend development.            |
-| Site Reliability Engineer   | `site-reliability-engineer` | Ensures system reliability and uptime.                    |
-| Data Engineer               | `data-engineer`             | Builds data pipelines for analytics.                      |
-| Business Intelligence Analyst | `business-intelligence-analyst` | Turns data into business insights.                    |
-| Machine Learning Researcher | `machine-learning-researcher` | Advances ML algorithms and research.                    |
-| Robotics Engineer           | `robotics-engineer`         | Designs robotic systems.                                  |
-| IoT Engineer                | `iot-engineer`              | Develops Internet of Things solutions.                    |
-| AR/VR Developer             | `ar-vr-developer`           | Creates augmented/virtual reality experiences.            |
-| Computer Vision Engineer    | `computer-vision-engineer`  | Builds systems for visual data processing.               |
-| NLP Engineer                | `nlp-engineer`              | Develops natural language processing systems.             |
-| Big Data Engineer           | `big-data-engineer`         | Manages large-scale data systems.                         |
-| Data Analyst                | `data-analyst`              | Interprets data for actionable insights.                  |
-| Information Security Analyst| `information-security-analyst` | Monitors and mitigates cyber threats.                  |
-| Penetration Tester          | `penetration-tester`        | Tests security through ethical hacking.                   |
-| Security Architect          | `security-architect`        | Designs secure IT systems.                                |
-| Cloud Architect             | `cloud-architect`           | Architects scalable cloud solutions.                      |
-| Solutions Architect         | `solutions-architect`       | Integrates tech solutions for business needs.             |
-| Network Architect           | `network-architect`         | Designs network infrastructures.                          |
-| Systems Analyst             | `systems-analyst`           | Analyzes and improves IT systems.                         |
-| IT Project Manager          | `it-project-manager`        | Leads IT project execution.                               |
-| Scrum Master                | `scrum-master`              | Facilitates Agile Scrum processes.                        |
-| Agile Coach                 | `agile-coach`               | Trains teams in Agile methodologies.                      |
-| UI Designer                 | `ui-designer`               | Crafts visual interfaces.                                 |
-| Graphic Designer            | `graphic-designer`          | Creates visual content for media.                         |
-| Motion Designer             | `motion-designer`           | Animates graphics for dynamic content.                    |
-| Interaction Designer        | `interaction-designer`      | Designs intuitive digital interactions.                   |
-| SEO Specialist              | `seo-specialist`            | Optimizes web visibility.                                 |
-| Content Strategist          | `content-strategist`        | Plans digital content strategies.                         |
-| API Developer               | `api-developer`             | Builds application programming interfaces.                |
-| Systems Engineer            | `systems-engineer`          | Integrates IT systems.                                    |
-| Hardware Engineer           | `hardware-engineer`         | Designs hardware components.                              |
-| Firmware Engineer           | `firmware-engineer`         | Codes for hardware devices.                               |
-| Quantum Computing Researcher| `quantum-computing-researcher` | Explores quantum computing tech.                       |
-| Bioinformatics Specialist   | `bioinformatics-specialist` | Analyzes biological data.                                 |
-| GIS Specialist              | `gis-specialist`            | Manages geospatial data.                                  |
-| DevSecOps Engineer          | `devsecops-engineer`        | Secures DevOps workflows.                                 |
-| Automation Engineer         | `automation-engineer`       | Automates processes.                                      |
-| Performance Engineer        | `performance-engineer`      | Optimizes system performance.                             |
-| Technical Trainer           | `technical-trainer`         | Teaches technical skills.                                 |
-| ERP Consultant              | `erp-consultant`            | Implements ERP systems.                                   |
-| CRM Developer               | `crm-developer`             | Customizes CRM platforms.                                 |
-| Ethical Hacker              | `ethical-hacker`            | Secures systems via ethical hacking.                      |
+| Software Developer          | [`software-developer`](./software-developer) | Builds software applications for various platforms.       |
+| Data Scientist              | [`data-scientist`](./data-scientist) | Analyzes data for insights and decision-making.           |
+| Cybersecurity Engineer      | [`cybersecurity-engineer`](./cybersecurity-engineer) | Protects systems from cyber threats.                      |
+| Network Engineer            | [`network-engineer`](./network-engineer) | Manages network infrastructure.                           |
+| IT Manager                  | [`it-manager`](./it-manager) | Oversees IT operations and strategy.                      |
+| Web Developer               | [`web-developer`](./web-developer) | Creates and maintains websites.                           |
+| Database Administrator      | [`database-administrator`](./database-administrator) | Manages database systems.                                 |
+| Technical Support Engineer  | [`technical-support-engineer`](./technical-support-engineer) | Assists users with technical issues.                      |
+| Product Manager             | [`product-manager`](./product-manager) | Guides product development lifecycle.                     |
+| UX Designer                 | [`ux-designer`](./ux-designer) | Designs user-friendly interfaces.                         |
+| Digital Marketing Manager   | [`digital-marketing-manager`](./digital-marketing-manager) | Promotes products via digital channels.                   |
+| Technical Writer            | [`technical-writer`](./technical-writer) | Documents technical information.                          |
+| Blockchain Developer        | [`blockchain-developer`](./blockchain-developer) | Builds decentralized applications.                        |
+| AI/ML Engineer              | [`ai-ml-engineer`](./ai-ml-engineer) | Develops artificial intelligence models.                  |
+| Cloud Engineer              | [`cloud-engineer`](./cloud-engineer) | Manages cloud infrastructure.                             |
+| DevOps Engineer             | [`devops-engineer`](./devops-engineer) | Automates software delivery processes.                    |
+| Systems Administrator       | [`systems-administrator`](./systems-administrator) | Maintains IT infrastructure.                              |
+| QA Engineer                 | [`qa-engineer`](./qa-engineer) | Ensures software quality through testing.                 |
+| Mobile Developer            | [`mobile-developer`](./mobile-developer) | Creates mobile applications.                              |
+| Game Developer              | [`game-developer`](./game-developer) | Develops video games.                                     |
+| Embedded Systems Engineer   | [`embedded-systems-engineer`](./embedded-systems-engineer) | Codes for hardware devices.                               |
+| Frontend Developer          | [`frontend-developer`](./frontend-developer) | Designs user interfaces for web apps.                     |
+| Backend Developer           | [`backend-developer`](./backend-developer) | Builds server-side logic for applications.                |
+| Full-Stack Developer        | [`full-stack-developer`](./full-stack-developer) | Handles both frontend and backend development.            |
+| Site Reliability Engineer   | [`site-reliability-engineer`](./site-reliability-engineer) | Ensures system reliability and uptime.                    |
+| Data Engineer               | [`data-engineer`](./data-engineer) | Builds data pipelines for analytics.                      |
+| Business Intelligence Analyst | [`business-intelligence-analyst`](./business-intelligence-analyst) | Turns data into business insights.                    |
+| Machine Learning Researcher | [`machine-learning-researcher`](./machine-learning-researcher) | Advances ML algorithms and research.                    |
+| Robotics Engineer           | [`robotics-engineer`](./robotics-engineer) | Designs robotic systems.                                  |
+| IoT Engineer                | [`iot-engineer`](./iot-engineer) | Develops Internet of Things solutions.                    |
+| AR/VR Developer             | [`ar-vr-developer`](./ar-vr-developer) | Creates augmented/virtual reality experiences.            |
+| Computer Vision Engineer    | [`computer-vision-engineer`](./computer-vision-engineer) | Builds systems for visual data processing.               |
+| NLP Engineer                | [`nlp-engineer`](./nlp-engineer) | Develops natural language processing systems.             |
+| Big Data Engineer           | [`big-data-engineer`](./big-data-engineer) | Manages large-scale data systems.                         |
+| Data Analyst                | [`data-analyst`](./data-analyst) | Interprets data for actionable insights.                  |
+| Information Security Analyst| [`information-security-analyst`](./information-security-analyst) | Monitors and mitigates cyber threats.                  |
+| Penetration Tester          | [`penetration-tester`](./penetration-tester) | Tests security through ethical hacking.                   |
+| Security Architect          | [`security-architect`](./security-architect) | Designs secure IT systems.                                |
+| Cloud Architect             | [`cloud-architect`](./cloud-architect) | Architects scalable cloud solutions.                      |
+| Solutions Architect         | [`solutions-architect`](./solutions-architect) | Integrates tech solutions for business needs.             |
+| Network Architect           | [`network-architect`](./network-architect) | Designs network infrastructures.                          |
+| Systems Analyst             | [`systems-analyst`](./systems-analyst) | Analyzes and improves IT systems.                         |
+| IT Project Manager          | [`it-project-manager`](./it-project-manager) | Leads IT project execution.                               |
+| Scrum Master                | [`scrum-master`](./scrum-master) | Facilitates Agile Scrum processes.                        |
+| Agile Coach                 | [`agile-coach`](./agile-coach) | Trains teams in Agile methodologies.                      |
+| UI Designer                 | [`ui-designer`](./ui-designer) | Crafts visual interfaces.                                 |
+| Graphic Designer            | [`graphic-designer`](./graphic-designer) | Creates visual content for media.                         |
+| Motion Designer             | [`motion-designer`](./motion-designer) | Animates graphics for dynamic content.                    |
+| Interaction Designer        | [`interaction-designer`](./interaction-designer) | Designs intuitive digital interactions.                   |
+| SEO Specialist              | [`seo-specialist`](./seo-specialist) | Optimizes web visibility.                                 |
+| Content Strategist          | [`content-strategist`](./content-strategist) | Plans digital content strategies.                         |
+| API Developer               | [`api-developer`](./api-developer) | Builds application programming interfaces.                |
+| Systems Engineer            | [`systems-engineer`](./systems-engineer) | Integrates IT systems.                                    |
+| Hardware Engineer           | [`hardware-engineer`](./hardware-engineer) | Designs hardware components.                              |
+| Firmware Engineer           | [`firmware-engineer`](./firmware-engineer) | Codes for hardware devices.                               |
+| Quantum Computing Researcher| [`quantum-computing-researcher`](./quantum-computing-researcher) | Explores quantum computing tech.                       |
+| Bioinformatics Specialist   | [`bioinformatics-specialist`](./bioinformatics-specialist) | Analyzes biological data.                                 |
+| GIS Specialist              | [`gis-specialist`](./gis-specialist) | Manages geospatial data.                                  |
+| DevSecOps Engineer          | [`devsecops-engineer`](./devsecops-engineer) | Secures DevOps workflows.                                 |
+| Automation Engineer         | [`automation-engineer`](./automation-engineer) | Automates processes.                                      |
+| Performance Engineer        | [`performance-engineer`](./performance-engineer) | Optimizes system performance.                             |
+| Technical Trainer           | [`technical-trainer`](./technical-trainer) | Teaches technical skills.                                 |
+| ERP Consultant              | [`erp-consultant`](./erp-consultant) | Implements ERP systems.                                   |
+| CRM Developer               | [`crm-developer`](./crm-developer) | Customizes CRM platforms.                                 |
+| Ethical Hacker              | [`ethical-hacker`](./ethical-hacker) | Secures systems via ethical hacking.                      |
+
+</details>
 
 ---
