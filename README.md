@@ -41,7 +41,6 @@ Alternatively, clone the repository locally:
 git clone https://github.com/CodeWithEugene/career-roadmaps
 cd career-roadmaps
 
-```bash
 # Navigate to your career folder
 cd <career-folder>
 
